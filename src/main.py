@@ -1,8 +1,9 @@
-import clipboard
 import json
 import random
 import time
 from pathlib import Path
+
+import clipboard
 
 path_to_file = Path(__file__).parent.resolve()
 
